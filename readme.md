@@ -1,4 +1,3 @@
-````markdown
 # Sistema de Operações com Matrizes
 
 Este projeto implementa duas operações principais com matrizes quadradas: **Soma de Matrizes** e **Multiplicação de Matrizes**, utilizando TypeScript.
@@ -34,7 +33,6 @@ No diretório raiz do projeto, rode o seguinte comando para instalar as dependê
 ```bash
 npm install
 ```
-````
 
 ### Passo 2: Rodar o script de multiplicação de matrizes
 
